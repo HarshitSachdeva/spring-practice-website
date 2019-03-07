@@ -1,0 +1,161 @@
+.header{
+	background-color: black;
+	height:60px;
+	margin: auto;
+	overflow: hidden;
+	width: 100%;
+	 position: absolute;
+	 top: 0px;
+	 left:0px;
+	 padding-top:17px;
+	 position:absolute;
+}
+.header a{
+	color:white;
+	font-size: 25px;
+	text-decoration:none;
+	padding:10px;
+}
+.header a:hover{
+	text-decoration:underline;
+}
+.header-left{
+	float:left;
+}
+.header-right{
+	float:right;
+}
+
+
+.ab{
+	margin-top:60px;
+	padding: 30px;
+	margin-left:170px;
+	padding-left: 5px;
+	padding-right:20px;
+	width:100%;
+	/*padding-bottom:5px;*/
+}
+
+
+.first{
+width:100%;
+height:5px;
+float: left;
+/*background-color: brown; */
+}
+.firstrow{
+	width:100%
+	height:50px;
+	background-color: red
+	margin-left: 70px;
+
+	}
+	.firstdescription{
+	width:220px;
+	margin-left:1px;
+	text-align: center;
+	height:50px;
+  	margin-bottom: 2px;
+	}
+	.seconddescription{
+	width:220px;
+	margin-left:600px;
+	text-align: center;
+	height: 50px;
+	margin-top:-90px;
+	background-color: green;
+	}
+		
+	.thirddescription{
+	width:220px;
+	margin-left:570px;
+	text-align: center;
+	height:50px;
+	margin-top: -150px;
+	}
+	.fourthdescription{
+	width:220px;
+	margin-left: 880px;
+	text-align: center;
+	margin-top: -100px;
+	
+	}
+	
+	.container{
+	text-align: center;
+	}
+	
+	.signinform1 {
+	margin-top:150px;
+	margin-left: 450px;
+	font-size:20px;
+	text-align: center;
+	height: 250px;
+	width: 400px;
+	background-color: green;
+	}
+	.d1{
+	margin-top:60px;
+	float:left;
+	height: 50px;
+	width: 40%;
+	}
+.l1 p{
+	font-size: 20px;
+	border: 1px solid black;
+}
+.l1{
+	margin-top: 180px;
+	margin-left: 20px;
+}
+.b1{
+	margin-left: 280px;
+	margin-top: 50px;
+}
+.fifth description{
+	width:220px;
+	margin-left:1px;
+	text-align: center;
+	height:50px;
+}
+.sixthdescription{
+	width:220px;
+	margin-left:230px;
+	text-align: center;
+	height: 50px;
+	margin-top: -120px;
+}
+.seventhdescription{
+	width:220px;
+	margin-left:540px;
+	text-align: center;
+	height:50px;
+	margin-top: -120px;
+}
+.eighthdescription{
+	width:220px;
+	margin-left: 820px;
+	text-align: center;
+	margin-top: -100px;
+}
+.footer{
+padding: 10px 0; 
+    background-color: #101010; 
+    color:#9d9d9d;  
+    bottom:0;
+    width: 100%; 
+    text-align: center;
+    
+}
+.cart-table{
+	font-size: 20px;
+	margin-left:400px;
+	border: 2px solid black;
+	text-align: center;
+	margin-top:200px;
+}
+.z{
+	margin-top: 150px;
+	text-align: center;
+}
